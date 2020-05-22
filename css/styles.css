@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  font-size: 16px;
+  font-family: sans-serif;
+  color: white;
+  background-color: coral;
+}
+
+h1,
+h2 {
+  margin-top: 20px;
+}
+
+#head-nav {
+  background-color: gray;
+}
+
+#card1,
+#card2,
+#card3 {
+  margin: 50px;
+}
+
+ul {
+}
+
+p {
+  margin: 15px;
+}
+
+#brand {
+  color: coral;
+}
+#badge {
+  float: right;
+  padding: 10px;
+  margin: 10px;
+}
